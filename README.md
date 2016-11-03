@@ -8,7 +8,7 @@ Contributors:
 * Hai Nguyen Au
 * Catherine Boersma
 * Joey Fitch
-* Gavid Goulette
+* David Goulette
 * Jian-Long Liu
 * Matthew Litrus
 * Brandon Morrison
