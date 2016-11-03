@@ -1,4 +1,4 @@
-## The Geometry and Topology of the Cosmic Web
+# THE GEOMETRY AND TOPOLOGY OF THE COSMIC WEB
 ### (NASA's CAMCOS Project 2014, San Jose State University)
 This is the final report of the project.
 
